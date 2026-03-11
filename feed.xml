@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Starz of Jax</title>
+        <link>https://starzofjax.com/</link>
+        <description>Jacksonville's premier news and information platform for business and community leaders</description>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 11 Mar 2026 13:12:48 +0000</lastBuildDate>
+        <image>
+            <title>Starz of Jax</title>
+            <url>https://starzofjax.com/logo.png</url>
+            <link>https://starzofjax.com/</link>
+        </image>
+        <item>
+            <title>Starz of Jax - Latest News Update</title>
+            <description>Stay updated with the latest news from Starz of Jax</description>
+            <link>https://starzofjax.com/news.html</link>
+            <pubDate>Wed, 11 Mar 2026 13:12:48 +0000</pubDate>
+            <author>editorial@starzofjax.com</author>
+            <category>News</category>
+        </item>
+    </channel>
+</rss>
