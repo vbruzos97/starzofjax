@@ -1,26 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
-Disallow: /temp/
-Disallow: /*.pdf$
-Disallow: /cgi-bin/
-
-# Sitemap location
 Sitemap: https://starzofjax.com/sitemap.xml
-
-# Crawl delay to prevent server overload
-Crawl-delay: 1
-
-# Allow Google, Bing, and other major search engines
 User-agent: Googlebot
 Allow: /
-Crawl-delay: 0
-
-User-agent: Bingbot
-Allow: /
-Crawl-delay: 0
-
-User-agent: Slurp
-Allow: /
-Crawl-delay: 1
